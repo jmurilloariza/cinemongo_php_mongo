@@ -1,0 +1,45 @@
+
+"pelicula": [
+	{
+		"id_pelicula": "",
+		"titulo": "",
+		"año": "",
+		"critica": "",
+		"caratula": "",
+		"copias":[
+			{
+				"id": "",
+				"n_copias": "",
+				"deteriorada": "",
+				"formato": "",
+				"id_pelicula": "",
+				"precio_alquiler": ""
+			}
+		]
+	}
+]
+
+"cliente":[
+	{
+		"cod_cliente": "",
+		"dni": "",
+		"nombre": "",
+		"apellido1": "",
+		"apellido2": "",
+		"direccion": "",
+		"email": ""
+	}
+]
+
+"prestamo": [
+	{
+		"id_prestamo": "",
+		"id_copia": "",
+		"cod_cliente": "",
+		"fecha_prestamo": "",
+		"fecha_tope": "",
+		"fecha_entrega": "",
+		"n_copias": ""
+	}
+]
+
